@@ -1,0 +1,9 @@
+openai
+transformers
+torch
+torchaudio
+whisper
+opencv-python
+Pillow
+streamlit
+python-dotenv
