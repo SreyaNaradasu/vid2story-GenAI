@@ -1,6 +1,6 @@
-# 🎥 Vid2Story
+# 🎥 Vid2Story Generator
 
-**Vid2Story-GenAI** is a free, offline AI-powered web app that transforms short videos into coherent stories. It uses open-source models for transcription, image captioning, and story generation — with no paid API or OpenAI key required.
+**Vid2Story Generator** is a free, offline AI-powered web app that transforms short videos into coherent stories. It uses open-source models for transcription, image captioning, and story generation — with no paid API or OpenAI key required.
 
 ---
 
